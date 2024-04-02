@@ -1,6 +1,6 @@
 # Travello
 <p align="center">
-<img src="screenshots/screenRecording.gif" width=700>
+<img src="screenshots/ss1.png" width=700>
 </p>
 
 ### A new Webpage Design for Travello made using HTML/ CSS / JS.
@@ -17,13 +17,13 @@ This is a Travel agency website Design for Travello. It consists of basic featur
 
 ## Website ScreenShots:
 <p align="center">
-<img src="screenshots/Screenshot1.png" width=700>
+<img src="screenshots/ss2.png" width=700>
 </p>
 <p align="center">
-<img src="screenshots/Screenshot2.png" width=700>
+<img src="screenshots/ss1.png" width=700>
 </p>
 <p align="center">
-<img src="screenshots/Screenshot3.png" width=700>
+<img src="screenshots/ss3.png" width=700>
 </p>
 
 ## Support
